@@ -5,7 +5,7 @@
     background-color: black;
 }
 
-.text {
+.text, .perfis {
     display: flex;
     justify-content: center;
     color: white;
@@ -42,12 +42,6 @@
 
     border: 1px solid white;
 }
-.perfis h2{
-    height: 45px;
-    justify-content: center;
-    display: flex;
-    border: 1px solid white;
-    margin-top: 70px;
-    text-align: center;
-    color: white;
+.perfis{
+    border: 1px solid rgb(255, 255, 255);
 }
